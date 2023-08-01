@@ -1,0 +1,12 @@
+{
+  "name": "noma-dummy-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test && npx playwright show-report"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
